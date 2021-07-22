@@ -1,4 +1,4 @@
-package com.forecast.app.weatherforecastapp.UnitTests.service;
+package com.forecast.app.weatherforecastapp.service;
 
 import com.forecast.app.weatherforecastapp.persistence.entity.IssueReportEntity;
 import com.forecast.app.weatherforecastapp.persistence.repository.IssueReportRepository;

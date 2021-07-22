@@ -1,14 +1,14 @@
 package com.forecast.app.weatherforecastapp.controller;
 
 import com.forecast.app.weatherforecastapp.model.IssueReportRequest;
-import com.forecast.app.weatherforecastapp.UnitTests.service.IssueReportService;
+import com.forecast.app.weatherforecastapp.service.IssueReportService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import static com.forecast.app.weatherforecastapp.UnitTests.utils.TransformerUtils.convertToIssueReportEntity;
+import static com.forecast.app.weatherforecastapp.utils.TransformerUtils.convertToIssueReportEntity;
 
 @RestController
 @RequiredArgsConstructor

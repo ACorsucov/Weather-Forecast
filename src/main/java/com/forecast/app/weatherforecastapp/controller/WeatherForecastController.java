@@ -1,7 +1,7 @@
 package com.forecast.app.weatherforecastapp.controller;
 
 import com.forecast.app.weatherforecastapp.model.mapper.Forecast;
-import com.forecast.app.weatherforecastapp.UnitTests.service.ForecastService;
+import com.forecast.app.weatherforecastapp.service.ForecastService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

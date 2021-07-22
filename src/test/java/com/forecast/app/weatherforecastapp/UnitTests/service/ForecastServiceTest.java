@@ -1,6 +1,7 @@
 package com.forecast.app.weatherforecastapp.UnitTests.service;
 
 import com.forecast.app.weatherforecastapp.model.mapper.Forecast;
+import com.forecast.app.weatherforecastapp.service.ForecastService;
 import lombok.val;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

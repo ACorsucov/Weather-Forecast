@@ -1,4 +1,4 @@
-package com.forecast.app.weatherforecastapp.UnitTests.utils;
+package com.forecast.app.weatherforecastapp.utils;
 
 import com.forecast.app.weatherforecastapp.model.IssueReportRequest;
 import com.forecast.app.weatherforecastapp.persistence.entity.IssueReportEntity;
