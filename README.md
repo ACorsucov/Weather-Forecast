@@ -1,5 +1,7 @@
 # Weather-Forecast
 
+# Get API Key for openweathermap, add it to application.properties under API_KEY
+
 # Build project with maven
 Command: mvn clean package -DskipTests
 
